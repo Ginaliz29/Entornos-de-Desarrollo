@@ -5,6 +5,8 @@ import java.math.*;
 
 // Git hub me tiene loca
 
+// modificacion para la tarea 
+
 
 
 public class Optimizacion{
